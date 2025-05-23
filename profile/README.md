@@ -9,15 +9,14 @@
 Below you'll find an overview of the main repositories under the Walletera organization. Each is crafted to tackle a specific aspect of the payments ecosystem, and together they form the foundation of our service-oriented architecture.
 
 
-### [payments](https://github.com/walletera/payments)
+### [payments](https://github.com/walletera/payments) [![Go](https://github.com/walletera/payments/actions/workflows/go.yml/badge.svg)](https://github.com/walletera/payments/actions/workflows/go.yml)
 The Payments service provides a RESTFul api to create payments on the walletera platform.
+
+### [eventskit](https://github.com/walletera/eventskit) [![Go](https://github.com/walletera/eventskit/actions/workflows/go.yml/badge.svg)](https://github.com/walletera/eventskit/actions/workflows/go.yml)
+The heart of walletera event-driven architecture. It provides the main components we use to produce, persist, and consume events.
 
 ### [bind-gateway](https://github.com/walletera/bind-gateway)
 Integrates the platform with the https://apibank.bind.com.ar/. This integration allows walletera customers to send and receive payments using Argentinian [CVU](https://bcra.gob.ar/MediosPago/Politica_Pagos-i.asp#h).
-
-### [eventskit](https://github.com/walletera/eventskit)
-The heart of walletera event-driven architecture. It provides the main components we use to produce, persist, and consume events.
-
 
 ## Read More: Walletera Blog
 
