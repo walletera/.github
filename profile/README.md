@@ -15,7 +15,7 @@ The Payments service provides a RESTFul api to create payments on the walletera 
 ### [eventskit](https://github.com/walletera/eventskit) [![Go](https://github.com/walletera/eventskit/actions/workflows/go.yml/badge.svg)](https://github.com/walletera/eventskit/actions/workflows/go.yml)
 The heart of walletera event-driven architecture. It provides the main components we use to produce, persist, and consume events.
 
-### [bind-gateway](https://github.com/walletera/bind-gateway)
+### [bind-gateway](https://github.com/walletera/bind-gateway) [![Go](https://github.com/walletera/bind-gateway/actions/workflows/go.yml/badge.svg)](https://github.com/walletera/bind-gateway/actions/workflows/go.yml)
 Integrates the platform with the https://apibank.bind.com.ar/. This integration allows walletera customers to send and receive payments using Argentinian [CVU](https://bcra.gob.ar/MediosPago/Politica_Pagos-i.asp#h).
 
 ## Read More: Walletera Blog
