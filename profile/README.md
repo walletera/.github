@@ -18,9 +18,12 @@ The heart of walletera event-driven architecture. It provides the main component
 ### [bind-gateway](https://github.com/walletera/bind-gateway) [![Go](https://github.com/walletera/bind-gateway/actions/workflows/go.yml/badge.svg)](https://github.com/walletera/bind-gateway/actions/workflows/go.yml)
 Integrates the platform with the https://apibank.bind.com.ar/. This integration allows walletera customers to send and receive payments using Argentinian [CVU](https://bcra.gob.ar/MediosPago/Politica_Pagos-i.asp#h).
 
+### [local-testing](https://github.com/walletera/local-testing)
+Local development and testing environment
+
 ## Read More: Walletera Blog
 
-Visit our [blog](https://walletera.dev/) for articles, updates, and deep-dives covering the architecture, design principles, and development journey behind Walletera. It’s a great resource for understanding the rationale and vision shaping our project.
+Visit our [blog](https://walletera.dev/) for articles, updates, and deep dives covering the architecture, design principles, and development journey behind Walletera. It’s a great resource for understanding the rationale and vision shaping our project.
 
 
 ## Get Involved
